@@ -1,5 +1,5 @@
 {
-  "name": "@persi123/browser-mcp-server",
+  "name": "@prashanttongra/browser-mcp-server",
   "version": "1.0.0",
   "description": "MCP server for AI agents to understand web page structure and content using Playwright",
   "main": "dist/index.js",
