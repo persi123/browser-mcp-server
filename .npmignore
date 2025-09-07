@@ -1,0 +1,10 @@
+src/
+node_modules/
+.claude/
+*.log
+*.tgz
+test*.js
+examples/
+tsconfig.json
+.git/
+.DS_Store
