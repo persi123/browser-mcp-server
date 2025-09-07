@@ -1,5 +1,5 @@
 {
-  "name": "@prashanttongra/browser-mcp-server",
+  "name": "@persi123/browser-mcp-server",
   "version": "1.0.0",
   "description": "MCP server for AI agents to understand web page structure and content using Playwright",
   "main": "dist/index.js",
@@ -33,12 +33,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/prashanttongra/browser-mcp-server.git"
+    "url": "https://github.com/persi123/browser-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/prashanttongra/browser-mcp-server/issues"
+    "url": "https://github.com/persi123/browser-mcp-server/issues"
   },
-  "homepage": "https://github.com/prashanttongra/browser-mcp-server#readme",
+  "homepage": "https://github.com/persi123/browser-mcp-server#readme",
   "files": [
     "dist/**/*",
     "README.md",
