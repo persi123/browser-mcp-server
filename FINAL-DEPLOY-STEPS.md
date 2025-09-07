@@ -40,7 +40,7 @@ console.log('✅ Package works!');
   "mcpServers": {
     "browser": {
       "command": "npx",
-      "args": ["@persi123/browser-mcp-server"]
+      "args": ["@prashanttongra/browser-mcp-server"]
     }
   }
 }
@@ -48,22 +48,22 @@ console.log('✅ Package works!');
 
 ### For Developers:
 ```bash
-npm install @persi123/browser-mcp-server
+npm install @prashanttongra/browser-mcp-server
 ```
 
 ### For Your Other Projects:
 ```bash
-# Link for development
-npm link @persi123/browser-mcp-server
+# Link for development (already working!)
+npm link @prashanttongra/browser-mcp-server
 
 # Or install directly
-npm install @persi123/browser-mcp-server
+npm install @prashanttongra/browser-mcp-server
 ```
 
 ## 📊 After Publishing, Your Package Will Be:
 
-- 🌐 **Available at**: https://www.npmjs.com/package/@persi123/browser-mcp-server
-- 📦 **Installable via**: `npm install @persi123/browser-mcp-server`  
+- 🌐 **Available at**: https://www.npmjs.com/package/@prashanttongra/browser-mcp-server
+- 📦 **Installable via**: `npm install @prashanttongra/browser-mcp-server`  
 - 🔗 **GitHub repo**: https://github.com/persi123/browser-mcp-server
 - ⚡ **Ready for AI agents** to understand web pages!
 
